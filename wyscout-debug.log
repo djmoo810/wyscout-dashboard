@@ -1,0 +1,13 @@
+2025-01-26T11:29:59.937Z [Login] Setting up effect
+2025-01-26T11:29:59.938Z [Login] Adding message event listener
+2025-01-26T11:29:59.940Z [Login] Removing message event listener
+2025-01-26T11:29:59.941Z [Login] Setting up effect
+2025-01-26T11:29:59.942Z [Login] Adding message event listener
+2025-01-26T11:30:04.939Z [Login] Login button clicked
+2025-01-26T11:30:04.939Z [Parent] Opening Wyscout login window...
+2025-01-26T11:30:04.950Z [Parent] Window opened successfully
+2025-01-26T11:30:04.950Z [Parent] Adding load event listener
+2025-01-26T11:30:04.950Z [Login] Login window opened successfully
+2025-01-26T11:30:04.957Z [Login] Removing message event listener
+2025-01-26T11:30:04.957Z [Login] Setting up effect
+2025-01-26T11:30:04.957Z [Login] Adding message event listener
