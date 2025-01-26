@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Wyscout Token Capture",
+    "version": "1.0",
+    "permissions": [
+        "cookies",
+        "*://*.wyscout.hudl.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.wyscout.hudl.com/*"
+            ],
+            "js": [
+                "wyscout-token-capture.js"
+            ]
+        }
+    ]
+}
